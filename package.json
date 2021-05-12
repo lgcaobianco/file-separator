@@ -1,0 +1,14 @@
+{
+  "name": "file-separator",
+  "version": "1.0.0",
+  "description": "this project will separate files in equal sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lgcaobianco",
+  "license": "ISC",
+  "dependencies": {
+    "file-metadata": "^2.0.0"
+  }
+}
